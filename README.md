@@ -5,6 +5,6 @@
 The cells are placed by pressing the left mouse button.
 
 **Hotkeys:**
-- S -* Pause/Continue;*
+- S - *Pause/Continue;*
 - C - *Clear field;*
 - Esc - *Exit.*
