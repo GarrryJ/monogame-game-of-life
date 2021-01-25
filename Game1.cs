@@ -215,6 +215,7 @@ namespace GameOfLife
 
             if (paused)
             {
+            _spriteBatch.Draw(rectangleBlock, new Rectangle((currentMouseState.X / 10) * 10, (currentMouseState.Y / 10) * 10, 10, 10), new Color(100, 255, 0)); 
             for (int i = 1; i < 192; i++)
                     _spriteBatch.Draw(rectangleBlock, new Rectangle(i * 10, 0, 1, 1080), new Color(100, 100, 0)); 
                 
